@@ -1,0 +1,557 @@
+{
+  "workspaces": {
+    "base": {
+      "main": {
+        "id": "31ca875e7706bb3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "6bfa0d38b7266de2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a0b17b6db0eb47cb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/01. Once, there was a maiden/Нападение.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Нападение"
+                }
+              },
+              {
+                "id": "49dbc39a0f0ccd26",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/01. Once, there was a maiden/01. Жила-была дева...md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01. Жила-была дева.."
+                }
+              },
+              {
+                "id": "b16e1672798b6cdd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/01. Once, there was a maiden/Выжимка приключения 0.8.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Выжимка приключения 0.8"
+                }
+              },
+              {
+                "id": "4c11c514168a342f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/01. Once, there was a maiden/Описания храма.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Описания храма"
+                }
+              },
+              {
+                "id": "ba1baf730ccd6cf2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "обобчающий.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "обобчающий"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "56aa368bb6157e59",
+        "type": "split",
+        "children": [
+          {
+            "id": "99761530503e4af5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2a4af70a935dc6dd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Файловый менеджер"
+                }
+              },
+              {
+                "id": "40824bbd977299ee",
+                "type": "leaf",
+                "state": {
+                  "type": "propertiesfilterelekis",
+                  "state": {},
+                  "icon": "filter",
+                  "title": "Properties Filter Plugin"
+                }
+              },
+              {
+                "id": "76f0a5580f4da839",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "квень",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Поиск"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 355.50909423828125
+      },
+      "right": {
+        "id": "5bf14bb4df1ea261",
+        "type": "split",
+        "children": [
+          {
+            "id": "2724587e38ece8eb",
+            "type": "tabs",
+            "dimension": 67.20183486238533,
+            "children": [
+              {
+                "id": "87390017c20d5d97",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabeticalReverse",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Теги"
+                }
+              },
+              {
+                "id": "c166b86c648535fe",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "content/01. Once, there was a maiden/Нападение.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Структура Нападение"
+                }
+              },
+              {
+                "id": "32021b56d65cadec",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Все свойства"
+                }
+              },
+              {
+                "id": "cd1cd2224c1ff844",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "3f5bb8f0962c93e4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-history-view",
+                  "state": {},
+                  "icon": "history",
+                  "title": "History"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "6885445e8ac2da09",
+            "type": "tabs",
+            "dimension": 32.798165137614674,
+            "children": [
+              {
+                "id": "5d1311bbc6a52bdd",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "content/01. Once, there was a maiden/Нападение.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Исходящие ссылки из Нападение"
+                }
+              },
+              {
+                "id": "b0b0d5a091a4300e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "content/00. Once, there was a maiden/1. Схема сюжета у Банга.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Обратные ссылки для 1. Схема сюжета у Банга"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 287.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+          "command-palette:Открыть палитру команд": false,
+          "random-note:Открыть случайную заметку": false,
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "templates:Вставить шаблон": false,
+          "obsidian-git:Open Git source control": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "properties-filter-elekis-plugin:Open Properties Filter": false,
+          "tags-overview:Tags overview": false,
+          "workspaces:Пространства": false
+        }
+      },
+      "active": "a0b17b6db0eb47cb",
+      "mtime": "2025-07-02T21:00:55+03:00"
+    },
+    "combat": {
+      "main": {
+        "id": "31ca875e7706bb3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "8acf397c782c6d01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5d9cf422c34a09b7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/Конспект по правилам боя/Конспект по правилам боя.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Конспект по правилам боя"
+                }
+              },
+              {
+                "id": "37d39d0daeb71483",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/Конспект по правилам боя/Social combat.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Social combat"
+                }
+              },
+              {
+                "id": "6e55aac5838fd7cd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/🔆Чарник - Рассветный Банг.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "🔆Чарник - Рассветный Банг"
+                }
+              },
+              {
+                "id": "8da43bc5dba5f1f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/Действия у Банга.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Действия у Банга"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "56aa368bb6157e59",
+        "type": "split",
+        "children": [
+          {
+            "id": "99761530503e4af5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2a4af70a935dc6dd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Файловый менеджер"
+                }
+              },
+              {
+                "id": "40824bbd977299ee",
+                "type": "leaf",
+                "state": {
+                  "type": "propertiesfilterelekis",
+                  "state": {},
+                  "icon": "filter",
+                  "title": "Properties Filter Plugin"
+                }
+              },
+              {
+                "id": "76f0a5580f4da839",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "квень",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Поиск"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 355.50909423828125
+      },
+      "right": {
+        "id": "5bf14bb4df1ea261",
+        "type": "split",
+        "children": [
+          {
+            "id": "2724587e38ece8eb",
+            "type": "tabs",
+            "dimension": 67.20183486238533,
+            "children": [
+              {
+                "id": "87390017c20d5d97",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabeticalReverse",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Теги"
+                }
+              },
+              {
+                "id": "c166b86c648535fe",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "content/Действия у Банга.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Структура Действия у Банга"
+                }
+              },
+              {
+                "id": "32021b56d65cadec",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Все свойства"
+                }
+              },
+              {
+                "id": "cd1cd2224c1ff844",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "3f5bb8f0962c93e4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-history-view",
+                  "state": {},
+                  "icon": "history",
+                  "title": "History"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "6885445e8ac2da09",
+            "type": "tabs",
+            "dimension": 32.798165137614674,
+            "children": [
+              {
+                "id": "5d1311bbc6a52bdd",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "content/Действия у Банга.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Исходящие ссылки из Действия у Банга"
+                }
+              },
+              {
+                "id": "b0b0d5a091a4300e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "content/00. Once, there was a maiden/1. Схема сюжета у Банга.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Обратные ссылки для 1. Схема сюжета у Банга"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 287.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+          "command-palette:Открыть палитру команд": false,
+          "random-note:Открыть случайную заметку": false,
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "templates:Вставить шаблон": false,
+          "obsidian-git:Open Git source control": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "properties-filter-elekis-plugin:Open Properties Filter": false,
+          "tags-overview:Tags overview": false,
+          "workspaces:Пространства": false
+        }
+      },
+      "active": "8da43bc5dba5f1f9",
+      "mtime": "2025-07-02T21:01:37+03:00"
+    }
+  },
+  "active": "base"
+}

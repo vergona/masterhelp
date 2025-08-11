@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "31ca875e7706bb3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "662b6dbbf6eaea6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4de46bf7d63b4888",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56aa368bb6157e59",
+    "type": "split",
+    "children": [
+      {
+        "id": "99761530503e4af5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a4af70a935dc6dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "76f0a5580f4da839",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dataview",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.50909423828125
+  },
+  "right": {
+    "id": "5bf14bb4df1ea261",
+    "type": "split",
+    "children": [
+      {
+        "id": "2724587e38ece8eb",
+        "type": "tabs",
+        "dimension": 67.20183486238533,
+        "children": [
+          {
+            "id": "87390017c20d5d97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "c166b86c648535fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/01. Once, there was a maiden/Планирование.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Планирование"
+            }
+          },
+          {
+            "id": "32021b56d65cadec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "cd1cd2224c1ff844",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "3f5bb8f0962c93e4",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "6885445e8ac2da09",
+        "type": "tabs",
+        "dimension": 32.798165137614674,
+        "children": [
+          {
+            "id": "5d1311bbc6a52bdd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/01. Once, there was a maiden/Планирование.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Планирование"
+            }
+          },
+          {
+            "id": "b0b0d5a091a4300e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": false,
+      "workspaces:Пространства": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4de46bf7d63b4888",
+  "lastOpenFiles": [
+    "content/Exalted Solar Road.md",
+    "content/Заметки по лору Exalted/Творение - География.md",
+    "content/Заметки по лору Exalted/Силы мира - Гайя и инкарны.md",
+    "content/Заметки по лору Exalted/Словарь по категориям.md",
+    "content/Заметки по лору Exalted/z Творение - Царство.md",
+    "content/Заметки по лору Exalted/Силы мира - боги и элементали.md",
+    "content/Заметки по лору Exalted/Об Эссенции.md",
+    "content/Заметки по лору Exalted/О Возвышенных.md",
+    "content/Заметки по лору Exalted/Realm primer.pdf",
+    "content/Заметки по лору Exalted/z Творение - Прочее.md",
+    "content/Заметки по лору Exalted/z Творение - История.md",
+    "content/Заметки по лору Exalted/z Таймлайны.md",
+    "content/Заметки по лору Exalted/Exalted History Abridged.pdf",
+    "content/Заметки по лору Exalted",
+    "content/Банг Шишигами/🔆Чарник - Рассветный Банг.md",
+    "content/Банг Шишигами/Действия у Банга.md",
+    "content/Банг Шишигами/Банг Шишигами.md",
+    "content/Банг Шишигами/(устаревшее) чарник Банга.md",
+    "content/Банг Шишигами/(устаревшее) Действия у Банга.md",
+    "content/Банг Шишигами",
+    "content/files/запас/водные чармы 1.jpg",
+    "content/files/бестиарий/moonsilver shadow 1.png",
+    "content/files/эксели/Pearl.xlsx",
+    "content/files/эксели/Master Sheet - With Formulas.xlsx",
+    "content/files/эксели/Initiative.ods",
+    "content/files/эксели/Fiche perso colab.xlsx",
+    "content/files/эксели/Familiar Generator.ods",
+    "content/files/эксели/Ex3 Combat Tracker 2.0.xlsx",
+    "content/files/запас/Сутра на спине.png",
+    "content/files/запас/Сол Инвиктус в стиле Hades.png",
+    "content/files/запас/нимфа.png",
+    "content/files/запас/00_B giant grossbeak 2.png",
+    "content/files/бестиарий/DB 1 Ledaal.jpg",
+    "content/files/запас/00_B giant grossbeak 1.png",
+    "content/files/бестиарий/moonsilver shadow 2.png",
+    "content/files/бестиарий/fang-blossom.png",
+    "content/01. Once, there was a maiden/Архив/Черновые сутры.md",
+    "content/01. Once, there was a maiden/Архив/Выжимка приключения 0.9.md",
+    "content/01. Once, there was a maiden/Архив/Выжимка приключения 0.9.27.md",
+    "content/01. Once, there was a maiden/Архив/Выжимка приключения 0.9.14.md",
+    "content/01. Once, there was a maiden/Архив/Выжимка приключения 0.8.md",
+    "content/01. Once, there was a maiden/Сутры Лазурной Лютни Гармонии.md",
+    "content/01. Once, there was a maiden/Бой - Клан-в-Тумане и Кендзо.md",
+    "content/01. Once, there was a maiden/Бой - Защита.md",
+    "content/01. Once, there was a maiden/01. Once, there was a maiden.md",
+    "content/00. Для мастера/Свиток героев/Сузуко.md"
+  ]
+}

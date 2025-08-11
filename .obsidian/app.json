@@ -1,0 +1,30 @@
+{
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "trashOption": "system",
+  "newFileLocation": "folder",
+  "showUnsupportedFiles": true,
+  "showIndentGuide": false,
+  "foldHeading": true,
+  "showInlineTitle": true,
+  "livePreview": true,
+  "newFileFolderPath": "/",
+  "attachmentFolderPath": "./",
+  "readableLineLength": false,
+  "userIgnoreFilters": [
+    "Resourse/"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "vimMode": false,
+  "uriCallbacks": false,
+  "promptDelete": false
+}

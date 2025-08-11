@@ -1,0 +1,18 @@
+{
+  "cssTheme": "",
+  "theme": "system",
+  "textFontFamily": "Inter",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "accentColor": "#e67e28",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "custom",
+    "colored files",
+    "Global Theme - Dotted background",
+    "MenuColor - Боковинки папок"
+  ],
+  "nativeMenus": true
+}
