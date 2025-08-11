@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a99056c9a51cc635",
+        "id": "261d47b70b611c51",
         "type": "tabs",
         "children": [
           {
-            "id": "76f36f3bf9edfb94",
+            "id": "3a48641088fadc20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Index"
             }
           }
         ]
@@ -58,16 +63,6 @@
               },
               "icon": "lucide-search",
               "title": "Поиск"
-            }
-          },
-          {
-            "id": "7efb74ee83a0ae44",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
             }
           }
         ]
@@ -143,52 +138,86 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "30e309fd2b98f6ca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "035ec34f63505d0d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "random-note:Открыть случайную заметку": false,
+      "workspaces:Пространства": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "76f36f3bf9edfb94",
+  "active": "3a48641088fadc20",
   "lastOpenFiles": [
-    "tsconfig.json",
-    "quartz/static/giscus/light.css",
-    "quartz/static/giscus/dark.css",
-    "quartz/plugins/transformers/toc.ts",
-    "quartz/plugins/transformers/syntax.ts",
-    "quartz/plugins/transformers/roam.ts",
-    "quartz/plugins/transformers/oxhugofm.ts",
-    "quartz/plugins/transformers/ofm.ts",
-    "quartz/plugins/transformers/links.ts",
-    "quartz/plugins/transformers/linebreaks.ts",
-    "quartz/plugins/transformers/latex.ts",
-    "quartz/static/og-image.png",
-    "quartz/static/icon.png",
-    "content/промт/Лазурный приют, Сузуко-но-какурэга.md",
     "content/промт/Сутры Героев.md",
+    "content/промт/Лазурный приют, Сузуко-но-какурэга.md",
     "content/промт/Выжимка приключения 0.9.8.4.md",
     "content/промт/Видения.md",
+    "content/промт",
+    "content/Банг Шишигами/🔆Чарник - Рассветный Банг.md",
+    "content/Банг Шишигами/Действия у Банга.md",
+    "content/Банг Шишигами/Банг Шишигами.md",
+    "content/Банг Шишигами/(устаревшее) чарник Банга.md",
+    "content/Банг Шишигами/(устаревшее) Действия у Банга.md",
+    "content/Банг Шишигами",
+    "content/цитатник.md",
+    "content/ф.md",
+    "content/Обитатели храма.md",
+    "content/механика сутра.md",
+    "content/Конец испытаний.md",
+    "content/files/эксели/Pearl.xlsx",
+    "content/files/эксели/Master Sheet - With Formulas.xlsx",
+    "content/files/эксели/Initiative.ods",
+    "content/files/эксели/Fiche perso colab.xlsx",
+    "content/files/эксели/Familiar Generator.ods",
+    "content/files/эксели/Ex3 Combat Tracker 2.0.xlsx",
+    "content/files/эксели/Economic worth.ods",
+    "content/files/запас/00_B giant grossbeak 1.png",
+    "content/files/эксели/Chargen Jumpstart.xlsx",
     "content/files/запас/Сутра на спине.png",
     "content/files/запас/Сол Инвиктус в стиле Hades.png",
     "content/files/запас/нимфа.png",
     "content/files/запас/водные чармы 1.jpg",
     "content/files/запас/00_B giant grossbeak 2.png",
-    "content/files/запас/00_B giant grossbeak 1.png",
-    "content/files/бестиарий/moonsilver shadow 2.png",
     "content/files/бестиарий/moonsilver shadow 1.png",
-    "content/Index.md",
+    "content/files/бестиарий/moonsilver shadow 2.png",
+    "content/files/бестиарий/DB2 River.jpg",
+    "content/files/бестиарий/fang-blossom.png",
     "content/Autochtony/🐋Тайный коридор к испытаниям.md",
     "content/Autochtony/🐋Видения.md",
     "content/Autochtony/🐋Безупречные и Сторонние - дуэль на четверых.md",
@@ -200,14 +229,6 @@
     "content/Autochtony/Пара, танцующая среди колонн.md",
     "content/Autochtony/Ложное исцеление хуже яда.md",
     "content/Autochtony/Девушка с горящими ладонями.md",
-    "content/Autochtony/Венера как режиссер драмы.md",
-    "content/Autochtony/DS Глубокая разборка.md",
-    "content/Autochtony/DpSk 0.7 - суммирование.md",
-    "content/01. Once, there was a maiden/Сутры Лазурной Лютни Гармонии.md",
-    "content/01. Once, there was a maiden/Бой - Клан-в-Тумане и Кендзо.md",
-    "content/01. Once, there was a maiden/Бой - Защита.md",
-    "content/01. Once, there was a maiden/Архив/Черновые сутры.md",
-    "content/01. Once, there was a maiden/Архив/Выжимка приключения 0.9.md",
-    "content/01. Once, there was a maiden/Архив/Выжимка приключения 0.9.27.md"
+    "content/Autochtony/Венера как режиссер драмы.md"
   ]
 }
