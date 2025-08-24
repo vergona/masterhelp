@@ -1,6 +1,4 @@
 ---
-status:
-  - outline
 tags:
   - 1-Сторителл/Exalted/солар
 ---

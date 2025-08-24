@@ -1,0 +1,3 @@
+# BluebotThe Reflection of Pain
+- The heir faces a horde of phantoms, each representing a person Ajni failed to save or a consequence of his actions. These phantoms don't attack physically; they assault the heir with feelings of guilt, regret, and despair, tempting them to abandon the path of righteousness.
+	- Exalted Twist: The phantoms could be manifestations of shadows cast by the Way of the Emerald Wind Style, reflecting the price of power and the burden of responsibility. The heir must use Counter-Attacks and Charms to transmute and dispel the negative emotions into positive affirmations.

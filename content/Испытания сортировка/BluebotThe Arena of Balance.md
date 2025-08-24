@@ -1,0 +1,3 @@
+# BluebotThe Arena of Balance
+- The heir must navigate a series of escalating combat encounters, but with a twist: each fight requires them to use a specific, unorthodox martial art style or weapon that challenges their strengths and exposes their weaknesses. The opponent changes and can even be based on some of Ajni's prior victories. If so, the heir must either defeat them in a completely new way or by undoing their previous victory.
+	- Exalted Twist: This could be framed as a test of Harmony of Body and Mind, where the heir must achieve a state of perfect equilibrium between their martial prowess and their inner peace. Failing to do so allows a powerful Malfean demon to emerge and wreck havoc.

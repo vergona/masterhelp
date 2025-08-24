@@ -1,0 +1,5 @@
+# BluebotTrial 1: The Labyrinth of Whispers
+
+- Description: The would-be heir must navigate a labyrinth constructed of polished rose quartz, its walls constantly shifting and whispering. The whispers are insidious, playing on their deepest fears and insecurities, tempting them to give up, to betray their ideals, or to succumb to anger.
+- Test: The Labyrinth tests the heir's mental fortitude, their ability to remain grounded in their values, and their resistance to temptation. To succeed, they must not only find the exit but also confront and overcome the voices within. Perhaps the key to navigating the maze is to speak calming affirmations, offering words of peace to the whispers, or understanding the truth behind the whispers.
+- Failure: Succumbing to the whispers results in the labyrinth collapsing in on itself, trapping the aspirant in an illusion of their greatest fear until they can find the strength to break free.

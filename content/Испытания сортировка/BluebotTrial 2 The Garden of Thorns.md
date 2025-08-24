@@ -1,0 +1,5 @@
+# BluebotTrial 2: The Garden of Thorns
+
+- Description: A seemingly beautiful garden filled with vibrant, fragrant flowers. However, each bloom is guarded by razor-sharp thorns, and beneath the surface lies a network of twisting roots that ensnare the unwary. Statues of suffering individuals are scattered throughout the garden, each seemingly frozen in a moment of pain.
+- Test: This trial tests compassion and empathy. The aspiring heir cannot simply hack their way through. The heir must navigate the garden with minimal damage to the flowers (potentially using non-violent methods), offer comfort or aid (via prayer, healing magic, etc.) to the suffering statues. The key could be understanding the stories behind the suffering and offering a gesture of understanding and healing.
+- Failure: Harming the flowers or ignoring the suffering statues causes the thorns to grow more aggressively, trapping the aspirant and inflicting wounds both physical and emotional.

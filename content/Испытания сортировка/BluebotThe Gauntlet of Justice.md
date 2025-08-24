@@ -1,0 +1,3 @@
+# BluebotThe Gauntlet of Justice
+- The heir enters a zone of warped reality where they must judge a series of moral dilemmas. These aren't simple "good vs. evil" scenarios; they involve complex situations where there are no easy answers and the consequences of each choice are far-reaching. The heir must use their wit, compassion, and sense of justice to arrive at the best possible solution, even if it means making difficult sacrifices. Success depends on maintaining proper Celestial Alignment; failure imposes severe penalties on their Charms.
+	- Exalted Twist: One scenario could involve negotiating a peace treaty between warring tribes, each with legitimate grievances fueled by both material need and cultural pride.

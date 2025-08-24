@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.folder == "Exalted Solar Road/Испытания сортировка 1"
+views:
+  - type: table
+    name: Таблица
+    order:
+      - file.name
+      - gem

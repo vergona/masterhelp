@@ -1,0 +1,2 @@
+# BluebotThe Embrace of Serenity
+The final test requires the heir to enter a state of profound meditation within the heart of the shrine. In this meditative state, they are confronted with a vision of their own death and the deaths of everyone they care about. To succeed, they must accept the impermanence of life, find peace in the face of mortality, and reaffirm their commitment to the values of compassion and justice. Only by achieving this state of serenity can they unlock the true power of the gauntlets.

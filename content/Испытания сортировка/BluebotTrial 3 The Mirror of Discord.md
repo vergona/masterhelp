@@ -1,0 +1,5 @@
+# BluebotTrial 3: The Mirror of Discord
+
+- Description: A large, ornately framed mirror hangs in a central chamber. When approached, it shows not a reflection of the heir, but their perfect opposite, a being embodying all their hidden flaws and suppressed desires. This "shadow self" immediately seeks to provoke a fight.
+- Test: This trial tests self-acceptance and inner peace. The heir must not engage in violence against their shadow self. Instead, they must find a way to reconcile with it, to understand and accept their own flaws, and to find harmony within themselves. Perhaps they must show compassion, forgiveness, or even humor towards their reflection.
+- Failure: Attacking the shadow self only empowers it, making it stronger and more dangerous. The heir will be forced to confront the destructive consequences of their own inner turmoil. The mirror shatters, and the shard would slowly consume the aspirant until nothing remains
