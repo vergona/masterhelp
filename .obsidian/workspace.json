@@ -11,10 +11,15 @@
             "id": "3a48641088fadc20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Шесть кинфолков.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Шесть кинфолков"
             }
           }
         ]
@@ -180,6 +185,7 @@
   },
   "active": "3a48641088fadc20",
   "lastOpenFiles": [
+    "content/Шесть кинфолков.md",
     "content/Черновики.md",
     "content/obs-quartz content — ярлык.lnk",
     "content/masterhelp content — ярлык.lnk",
@@ -209,7 +215,6 @@
     "content/мастерская будущего/Департамент Безмятежности.md",
     "content/мастерская будущего/Генерация Сторонних Возвышенных.md",
     "content/мастерская будущего/Генератор имен.md",
-    "content/мастерская будущего/z Табель о рангах 7го Легиона.md",
     "content/мастерская будущего/Time of Timult - 12 solars in Invisible Fortress.jpg",
     "content/мастерская будущего/sphinx (vector).jpg",
     "content/мастерская будущего/sphinx (pencil).jpg",
