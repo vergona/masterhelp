@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Шесть кинфолков"
             }
+          },
+          {
+            "id": "11e57d82f92853ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проклятье Ульмы.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Проклятье Ульмы"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,9 +199,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3a48641088fadc20",
+  "active": "11e57d82f92853ef",
   "lastOpenFiles": [
     "content/Шесть кинфолков.md",
+    "Проклятье Ульмы.md",
     "content/Черновики.md",
     "content/obs-quartz content — ярлык.lnk",
     "content/masterhelp content — ярлык.lnk",
@@ -214,7 +231,6 @@
     "content/мастерская будущего/карточки-сцены",
     "content/мастерская будущего/Департамент Безмятежности.md",
     "content/мастерская будущего/Генерация Сторонних Возвышенных.md",
-    "content/мастерская будущего/Генератор имен.md",
     "content/мастерская будущего/Time of Timult - 12 solars in Invisible Fortress.jpg",
     "content/мастерская будущего/sphinx (vector).jpg",
     "content/мастерская будущего/sphinx (pencil).jpg",
