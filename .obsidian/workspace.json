@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Шесть кинфолков.md",
+                "file": "content/MtA Вальс Сломанных Кукол/MtA Вальс Сломанных Кукол.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Шесть кинфолков"
-            }
-          },
-          {
-            "id": "11e57d82f92853ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проклятье Ульмы.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Проклятье Ульмы"
+              "title": "MtA Вальс Сломанных Кукол"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,53 +183,53 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "11e57d82f92853ef",
+  "active": "30e6f86c1adbf0d2",
   "lastOpenFiles": [
     "content/Шесть кинфолков.md",
-    "Проклятье Ульмы.md",
-    "content/Черновики.md",
+    "content/Проклятье Ульмы.md",
+    "content/Exalted Solar Road/Черновики.md",
     "content/obs-quartz content — ярлык.lnk",
     "content/masterhelp content — ярлык.lnk",
     "content/Exalted Solar Road.md",
-    "content/Свиток героев/Сузуко.md",
-    "content/Свиток героев/Семья Джуго.md",
-    "content/Свиток героев/Tattle-tale ◉ Пелепс Лисара.md",
-    "content/Свиток героев/SoS Лиловая Жемчужина Безмятежности.md",
-    "content/Свиток героев/SoS Вся история Лиловой Жемчужины.md",
-    "content/Свиток героев/ABS Прошлые Солары.md",
-    "content/Свиток героев/ABS Люк Яростный Рассвет.md",
-    "content/Свиток героев/ABS Акира Призрак Лукши.md",
-    "content/Свиток героев",
-    "content/мастерская будущего/карточки-сцены/Тень, которую нельзя победить.md",
-    "content/мастерская будущего/карточки-сцены/Пара, танцующая среди колонн.md",
-    "content/мастерская будущего/карточки-сцены/Ложное исцеление хуже яда.md",
-    "content/мастерская будущего/карточки-сцены/карта из воспоминаний.md",
-    "content/мастерская будущего/карточки-сцены/Девушка с горящими ладонями.md",
-    "content/мастерская будущего/карточки-сцены/Вино эмоций.md",
-    "content/мастерская будущего/карточки-сцены/Блюдо из забытых имён.md",
-    "content/мастерская будущего/🎫Шаблон полного листа Возвышенного.md",
-    "content/мастерская будущего/Сутра на спине.md",
-    "content/мастерская будущего/Приключения и материалы для начала.md",
-    "content/мастерская будущего/Награбленные ссылки.md",
-    "content/мастерская будущего/логи.md",
-    "content/мастерская будущего/карточки-сцены",
-    "content/мастерская будущего/Департамент Безмятежности.md",
-    "content/мастерская будущего/Генерация Сторонних Возвышенных.md",
-    "content/мастерская будущего/Time of Timult - 12 solars in Invisible Fortress.jpg",
-    "content/мастерская будущего/sphinx (vector).jpg",
-    "content/мастерская будущего/sphinx (pencil).jpg",
-    "content/мастерская будущего/outcastes - shogunate calendar.png",
-    "content/мастерская будущего/ilide.info-ex3-combat-primer-for-players.pdf",
-    "content/мастерская будущего/currency guide.png",
-    "content/мастерская будущего",
-    "content/Испытания сортировка/Без названия.base",
-    "content/Испытания сортировка",
-    "content/Бестиарий",
-    "content/Банг Шишигами",
-    "content/files/запас/Сутра на спине.png",
-    "content/files/запас/Сол Инвиктус в стиле Hades.png",
-    "content/files/запас/00_B giant grossbeak 2.png",
-    "content/files/запас/00_B giant grossbeak 1.png",
-    "content/files/запас/00_04 fantasy goddess palace coquina stone, UNDER waterfall, ghibli style.jpg"
+    "content/Exalted Solar Road/Свиток героев/Сузуко.md",
+    "content/Exalted Solar Road/Свиток героев/Семья Джуго.md",
+    "content/Exalted Solar Road/Свиток героев/Tattle-tale ◉ Пелепс Лисара.md",
+    "content/Exalted Solar Road/Свиток героев/SoS Лиловая Жемчужина Безмятежности.md",
+    "content/Exalted Solar Road/Свиток героев/SoS Вся история Лиловой Жемчужины.md",
+    "content/Exalted Solar Road/Свиток героев/ABS Прошлые Солары.md",
+    "content/Exalted Solar Road/Свиток героев/ABS Люк Яростный Рассвет.md",
+    "content/Exalted Solar Road/Свиток героев/ABS Акира Призрак Лукши.md",
+    "content/Exalted Solar Road/Свиток героев",
+    "content/Exalted Solar Road/мастерская будущего/карточки-сцены/Тень, которую нельзя победить.md",
+    "content/Exalted Solar Road/мастерская будущего/карточки-сцены/Пара, танцующая среди колонн.md",
+    "content/Exalted Solar Road/мастерская будущего/карточки-сцены/Ложное исцеление хуже яда.md",
+    "content/Exalted Solar Road/мастерская будущего/карточки-сцены/карта из воспоминаний.md",
+    "content/Exalted Solar Road/мастерская будущего/карточки-сцены/Девушка с горящими ладонями.md",
+    "content/Exalted Solar Road/мастерская будущего/карточки-сцены/Вино эмоций.md",
+    "content/Exalted Solar Road/мастерская будущего/карточки-сцены/Блюдо из забытых имён.md",
+    "content/Exalted Solar Road/мастерская будущего/🎫Шаблон полного листа Возвышенного.md",
+    "content/Exalted Solar Road/мастерская будущего/Сутра на спине.md",
+    "content/Exalted Solar Road/мастерская будущего/Приключения и материалы для начала.md",
+    "content/Exalted Solar Road/мастерская будущего/Награбленные ссылки.md",
+    "content/Exalted Solar Road/мастерская будущего/логи.md",
+    "content/Exalted Solar Road/мастерская будущего/карточки-сцены",
+    "content/Exalted Solar Road/мастерская будущего/Департамент Безмятежности.md",
+    "content/Exalted Solar Road/мастерская будущего/Генерация Сторонних Возвышенных.md",
+    "content/Exalted Solar Road/мастерская будущего/Time of Timult - 12 solars in Invisible Fortress.jpg",
+    "content/Exalted Solar Road/мастерская будущего/sphinx (vector).jpg",
+    "content/Exalted Solar Road/мастерская будущего/sphinx (pencil).jpg",
+    "content/Exalted Solar Road/мастерская будущего/outcastes - shogunate calendar.png",
+    "content/Exalted Solar Road/мастерская будущего/ilide.info-ex3-combat-primer-for-players.pdf",
+    "content/Exalted Solar Road/мастерская будущего/currency guide.png",
+    "content/Exalted Solar Road/мастерская будущего",
+    "content/Exalted Solar Road/Испытания сортировка/Без названия.base",
+    "content/Exalted Solar Road/Испытания сортировка",
+    "content/Exalted Solar Road/Бестиарий",
+    "content/Exalted Solar Road/Банг Шишигами",
+    "content/Exalted Solar Road/files/запас/Сутра на спине.png",
+    "content/Exalted Solar Road/files/запас/Сол Инвиктус в стиле Hades.png",
+    "content/Exalted Solar Road/files/запас/00_B giant grossbeak 2.png",
+    "content/Exalted Solar Road/files/запас/00_B giant grossbeak 1.png",
+    "content/Exalted Solar Road/files/запас/00_04 fantasy goddess palace coquina stone, UNDER waterfall, ghibli style.jpg"
   ]
 }
