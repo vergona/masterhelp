@@ -16,7 +16,6 @@ tags:
   - "[[04. Дельта🧶]]"
 🔮lastdate: 2015-05-23T15:00:00
 vaultpart: кампейн магов
-status: published
 ---
 # ф 
 = = 

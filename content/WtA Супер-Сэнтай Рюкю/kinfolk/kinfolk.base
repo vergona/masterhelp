@@ -1,0 +1,81 @@
+filters:
+  and:
+    - file.folder.contains("kinfolk")
+formulas:
+  vitr-cover: |
+    if(file.embeds[0].containsAny("jpg","png","gif","webp","jpeg","avif"), file.embeds[0])
+  Untitled: if(file.name.startsWith("0"), "--> ", if(file.name.startsWith("O"), "--> ", ""))
+  День недели: 🔮lastdate.format("dd DD MMM YYYY")
+  Untitled 2: aliases[0]
+  Untitled 3: file.folder.split("/")[-1]
+properties:
+  formula.Untitled:
+    displayName: Название истории
+  formula.Untitled 2:
+    displayName: aliases0
+  formula.Untitled 3:
+    displayName: lastfolder
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.name.startsWith("kin")'
+    order:
+      - file.name
+      - formula.Untitled 3
+      - rate
+      - пара
+    sort:
+      - property: formula.Untitled 3
+        direction: ASC
+      - property: rate
+        direction: ASC
+    columnSize:
+      note.🔮actors: 381
+      note.🔮points: 318
+  - type: cards
+    name: images
+    filters:
+      and:
+        - file.ext != "md"
+    image: file.file
+  - type: cards
+    name: with cover
+    filters:
+      and:
+        - file.ext == "md"
+        - '!formula["vitr-cover"].isEmpty()'
+    image: formula.vitr-cover
+  - type: table
+    name: Истории
+    filters:
+      and:
+        - file.hasTag("#1-Сторителл/хроника")
+        - file.name != this.file.name
+    order:
+      - formula.Untitled
+      - file.name
+      - formula.День недели
+    sort:
+      - property: 🔮lastdate
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      formula.Untitled: 47
+      file.name: 249
+  - type: table
+    name: Хроники папок
+    filters:
+      and:
+        - file.hasTag("1-Сторителл/хроника/даунтайм")
+        - 🔮chronology.contains(link(this.file.name))
+    order:
+      - file.name
+      - 🔮lastdate
+      - formula.Untitled 2
+      - 🔮actors
+    sort:
+      - property: 🔮lastdate
+        direction: ASC

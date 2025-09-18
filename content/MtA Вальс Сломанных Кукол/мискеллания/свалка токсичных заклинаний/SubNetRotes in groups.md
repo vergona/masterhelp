@@ -11,8 +11,6 @@ vaultpart: "!Шаблон"
 🔮points:
   - гримуары
 🔮lastdate: 2015-01-01T00:00:00
-status:
-  - colorful:onHold
 ---
 http://www.thesubnet.com/portal/wod/mtas/SiteMap.html
 

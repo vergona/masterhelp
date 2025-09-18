@@ -11,8 +11,6 @@ vaultpart: "!Шаблон"
 🔮points:
   - гримуары
 🔮lastdate: 2015-01-01T00:00:00
-status:
-  - colorful:onHold
 ---
 https://docs.google.com/document/d/1vuFhFhC_quIW6FdSx_TO_PGdcSGxfo40uEkh3bfsi24/edit?tab=t.0
 
