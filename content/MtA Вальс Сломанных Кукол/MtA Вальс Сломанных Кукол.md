@@ -17,7 +17,7 @@ tags:
 🔮lastdate: 2015-05-23T15:00:00
 vaultpart: кампейн магов
 ---
-# ф 
+# ф ж
 = = 
 ```dvjs
 const folderPath = dv.page("").file.path.split('/').slice(0, -1).join('/');
