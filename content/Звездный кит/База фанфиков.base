@@ -1,0 +1,89 @@
+filters:
+  and:
+    - file.folder.contains("кит")
+    - "file.name != this.file.name "
+    - file.name != "нейромаги"
+    - file.ext == "md"
+formulas:
+  объем: aliases[0]
+  Untitled: aliases[1]
+  Untitled 2: if(aliases[1]=="джен", "-", 🔮actors[0].split(" ")[0]+"/"+🔮actors[1].split(" ")[0])
+properties:
+  formula.Untitled:
+    displayName: категория
+  formula.Untitled 2:
+    displayName: пейринг
+views:
+  - type: table
+    name: Таблица
+    order:
+      - file.name
+      - file.folder
+      - topics
+      - formula.объем
+      - formula.Untitled
+      - formula.Untitled 2
+      - 🔮actors
+      - 🔮chronology
+      - aliases
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: topics
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.folder: 416
+      note.topics: 359
+      formula.объем: 98
+  - type: table
+    name: фики магов
+    filters:
+      and:
+        - file.folder.contains("нейромаги")
+    order:
+      - file.name
+      - topics
+      - formula.объем
+      - formula.Untitled
+      - formula.Untitled 2
+      - 🔮actors
+      - 🔮chronology
+      - aliases
+    sort:
+      - property: topics
+        direction: DESC
+      - property: file.folder
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.topics: 279
+      formula.объем: 156
+      formula.Untitled: 125
+  - type: table
+    name: Заря
+    filters:
+      and:
+        - file.folder.contains("заря")
+    order:
+      - file.name
+      - topics
+      - formula.объем
+      - formula.Untitled
+      - formula.Untitled 2
+      - 🔮actors
+      - 🔮chronology
+      - aliases
+    sort:
+      - property: topics
+        direction: DESC
+      - property: file.folder
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.topics: 279
+      formula.объем: 156
+      formula.Untitled: 125
