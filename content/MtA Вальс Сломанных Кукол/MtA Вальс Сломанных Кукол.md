@@ -7,7 +7,7 @@ tags:
   - a/moc
   - 1-Сторителл/WOD_MTA
   - 📻/code/dvjs
-🔮points:
+topics:
   - маги мира тьмы
   - MapOfC
 🔮actors:
@@ -17,7 +17,7 @@ tags:
 🔮lastdate: 2015-05-23T15:00:00
 vaultpart: кампейн магов
 ---
-# ф ж
+# ф 
 = = 
 ```dvjs
 const folderPath = dv.page("").file.path.split('/').slice(0, -1).join('/');

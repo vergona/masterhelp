@@ -8,7 +8,7 @@ vaultpart: "!Шаблон"
   - =
 🔮chronology:
   - =
-🔮points:
+topics:
   - гримуары
 🔮lastdate: 2015-01-01T00:00:00
 ---

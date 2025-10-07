@@ -4,7 +4,7 @@ aliases:
 tags:
   - 1-Сторителл/хроника/даунтайм
   - a/log/messager
-🔮points:
+topics:
   - игровые записи
 🔮actors:
   - "[[Рене Сериз Дюбуа]]"
