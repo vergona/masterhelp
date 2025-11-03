@@ -1,3 +1,6 @@
+---
+{}
+---
 https://wod.su/werewolf/book/werewolf_core/06
 
 
