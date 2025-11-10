@@ -13,16 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/📻Звездный кит/Семья Аддамс/Mia perla i Fausto/Фауст убивает и становит ее в Италии.md",
+                "file": "content/📻Звездный кит/Уравнение Хаоса (Вилли, Марвин и Поль)/02.4121 Ключ и склеп.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Фауст убивает и становит ее в Италии"
+              "title": "02.4121 Ключ и склеп"
+            }
+          },
+          {
+            "id": "9b7c9ccc4c929002",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "толстячо",
+                "query": "франсуа",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/📻Звездный кит/Семья Аддамс/Mia perla i Fausto/Фауст убивает и становит ее в Италии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Фауст убивает и становит ее в Италии"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -132,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/📻Звездный кит/Семья Аддамс/Mia perla i Fausto/Фауст убивает и становит ее в Италии.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Фауст убивает и становит ее в Италии"
+              "title": "Структура"
             }
           },
           {
@@ -185,10 +194,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "035ec34f63505d0d",
+  "active": "30e6f86c1adbf0d2",
   "lastOpenFiles": [
-    "content/VTM Paris/джоваани в париже.md",
+    "content/📻Звездный кит/Новые тропинки/Лета и Фауст q 3 в Камарилье.md",
+    "content/📻Звездный кит/Новые тропинки/Лета и Фауст q 2.md",
+    "content/📻Звездный кит/Новые тропинки/Лета и Фауст (q).md",
+    "content/📻Звездный кит/Новые тропинки/05.1 Нежданная дочь.md",
+    "content/📻Звездный кит/Новые тропинки/05.1 Диагноз шуту.md",
+    "content/📻Звездный кит/Новые тропинки/05.1 Астральный рывок.md",
+    "content/📻Звездный кит/Новые тропинки/05 Новые тропинки.md",
+    "content/📻Звездный кит/Новые тропинки",
+    "content/📻Звездный кит/Уравнение Хаоса (Вилли, Марвин и Поль)/02.4121 Ключ и склеп.md",
+    "content/📻Звездный кит/Уравнение Хаоса (Вилли, Марвин и Поль)/Уравнение Хаоса (Вилли, Марвин и Поль).md",
+    "content/📻Звездный кит/Уравнение Хаоса (Вилли, Марвин и Поль)/Сцена - Бумажный самолётик.md",
+    "content/MtA Вальс Сломанных Кукол/Важные лица/Рене Сериз Дюбуа.md",
+    "content/📻Звездный кит/Моник/прутья.md",
     "content/📻Звездный кит/Семья Аддамс/Mia perla i Fausto/Фауст убивает и становит ее в Италии.md",
+    "content/VTM Paris/джоваани в париже.md",
     "content/📻Звездный кит/Семья Аддамс/Mia perla i Fausto/Mia perla i Fausto.md",
     "content/📻Звездный кит/Семья Аддамс/Mia perla i Fausto/Спасительная шпилька и странная троица.md",
     "content/📻Звездный кит/Семья Аддамс/Mia perla i Fausto/Фауст и его жемчужина.md",
@@ -204,25 +226,12 @@
     "content/📻Звездный кит/Семья Аддамс/L01 Летиция и Паскаль.md",
     "content/📻Звездный кит/Семья Аддамс/оглавление.md",
     "content/📻Звездный кит/Семья Аддамс/каллисто протокол",
-    "content/VTM Paris/Копипаста вопросов по парижу.md",
-    "content/VTM Paris/Сводное по Джованни в игре.md",
-    "content/VTM Paris/Генерация - Летиция.md",
-    "content/VTM Paris/повесть квента вер 1.md",
-    "content/WtA Супер-Сэнтай Рюкю/kinfolk/средне/7-1. неформал-граффитист.md",
-    "content/WtA Супер-Сэнтай Рюкю/kinfolk/средне/6-1. дед-Таксист и краевед-любитель.md",
-    "content/WtA Супер-Сэнтай Рюкю/kinfolk/средне/2-1. Механик.md",
-    "content/WtA Супер-Сэнтай Рюкю/kinfolk/не хочу/kk fem 8. Нами Уэхара (Женщина, 3fem 1 год).md",
-    "content/WtA Супер-Сэнтай Рюкю/kinfolk/не хочу/kk fem 2. Маико Хига «Басан» (Женщина, 68 лет).md",
-    "content/WtA Супер-Сэнтай Рюкю/kinfolk/не хочу/kk fem 13. Саори Канэсиро (Женщина, 33 года).md",
-    "content/WtA Супер-Сэнтай Рюкю/kinfolk/не хочу/kk 7. Сёта Киёнага (Мужчина, 24 года).md",
-    "content/WtA Супер-Сэнтай Рюкю/kinfolk/не хочу/kk 5. Харуно «Хару» Осиро (Мужчина, 17 лет).md",
     "content/WtA Супер-Сэнтай Рюкю/генерации/чарник тигр версия 0.99.pdf",
     "content/WtA Супер-Сэнтай Рюкю/генерации/чарник тигр версия 0.24.pdf",
     "content/WtA Супер-Сэнтай Рюкю/генерации/хенге генерация.xlsx",
     "content/WtA Супер-Сэнтай Рюкю/kinfolk/средне",
     "content/WtA Супер-Сэнтай Рюкю/kinfolk/не хочу",
     "content/WtA Супер-Сэнтай Рюкю/kinfolk/Женщины",
-    "content/WtA Супер-Сэнтай Рюкю/kinfolk/kinfolk.base",
     "content/WtA Супер-Сэнтай Рюкю/Кёуран.jpg",
     "content/WtA Супер-Сэнтай Рюкю/бастет - формы.png",
     "content/WtA Супер-Сэнтай Рюкю/Calendar-2000.jpg",
