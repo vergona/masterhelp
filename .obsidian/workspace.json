@@ -26,10 +26,12 @@
             "id": "9b7c9ccc4c929002",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.10.3"
             }
           }
         ],
@@ -194,8 +196,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "30e6f86c1adbf0d2",
+  "active": "9b7c9ccc4c929002",
   "lastOpenFiles": [
+    "content/🦊📻 Hazbin Fic/🦊📻 Веточки.md",
+    "content/🦊📻 Hazbin Fic/🦊📻 Hazbin Fic.md",
+    "content/🦊📻 Hazbin Fic/u4bxFNtbWHwV8i3iVjMxvDJBHu7Cf2V2QZBAz.png",
+    "content/🦊📻 Hazbin Fic/Ophelia-mi oc de hazbin hotel ksjsjsjs.jpg",
+    "content/🦊📻 Hazbin Fic/My hazbin hotel oc!~, her name is Catherine!.jpg",
+    "content/🦊📻 Hazbin Fic/images.jpg",
+    "content/🦊📻 Hazbin Fic/Evelyn Hazbin Hotel.jpg",
+    "content/🦊📻 Hazbin Fic",
     "content/📻Звездный кит/Новые тропинки/Лета и Фауст q 3 в Камарилье.md",
     "content/📻Звездный кит/Новые тропинки/Лета и Фауст q 2.md",
     "content/📻Звездный кит/Новые тропинки/Лета и Фауст (q).md",
@@ -223,24 +233,16 @@
     "content/📻Звездный кит/Семья Аддамс/каллисто протокол/L02-3-2 (главы 1-14) Воля и Узы.md",
     "content/📻Звездный кит/Семья Аддамс/каллисто протокол/L01 Полная повесть. Хороший Каллисто.md",
     "content/📻Звездный кит/Семья Аддамс/L01 Летиция и Антуан-Адриан.md",
-    "content/📻Звездный кит/Семья Аддамс/L01 Летиция и Паскаль.md",
-    "content/📻Звездный кит/Семья Аддамс/оглавление.md",
     "content/📻Звездный кит/Семья Аддамс/каллисто протокол",
     "content/WtA Супер-Сэнтай Рюкю/генерации/чарник тигр версия 0.99.pdf",
     "content/WtA Супер-Сэнтай Рюкю/генерации/чарник тигр версия 0.24.pdf",
     "content/WtA Супер-Сэнтай Рюкю/генерации/хенге генерация.xlsx",
     "content/WtA Супер-Сэнтай Рюкю/kinfolk/средне",
     "content/WtA Супер-Сэнтай Рюкю/kinfolk/не хочу",
-    "content/WtA Супер-Сэнтай Рюкю/kinfolk/Женщины",
     "content/WtA Супер-Сэнтай Рюкю/Кёуран.jpg",
     "content/WtA Супер-Сэнтай Рюкю/бастет - формы.png",
     "content/WtA Супер-Сэнтай Рюкю/Calendar-2000.jpg",
     "content/WoD/прокачка в оборотнях.png",
-    "content/VTM Paris/carte-paris.jpg",
-    "content/VTM Paris/carte-paris NO.png",
-    "content/VTM Paris/carte-paris + text.png",
-    "content/World of Darkness/WtA Супер-Сэнтай Рюкю/Кёуран.jpg",
-    "content/World of Darkness/WtA Супер-Сэнтай Рюкю/бастет - формы.png",
-    "content/World of Darkness/WtA Супер-Сэнтай Рюкю/Calendar-2000.jpg"
+    "content/VTM Paris/carte-paris.jpg"
   ]
 }
