@@ -26,12 +26,15 @@
             "id": "9b7c9ccc4c929002",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "content/🦊📻 Hazbin Fic/🦊📻 Веточки.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.10.3"
+              "icon": "lucide-file",
+              "title": "🦊📻 Веточки"
             }
           }
         ],
